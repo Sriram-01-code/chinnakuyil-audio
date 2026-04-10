@@ -1,11 +1,12 @@
 [
   {
     "title": "Chinnakuyil Paadum",
-    "movie": "Rettai Vaal Kuruvi",
+    "movie": "Poove Poochudavaa",
     "composer": "Ilaiyaraaja",
     "category": "Vintage Classics",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/chinnakuyil.mp3",
-    "lyrics": "Chinna kuyil paadum paattu keladaa\nEn selva kaadhalane\n\nUnnaith thaane kalyanam seithu kolven\nUllathile palliyarai pottu vaippen\n\nChinna kuyil paadum paattu keladaa\nEn selva kaadhalane\n\nMuthu muthaa pookal poothu\nKullukudhe mulla kodi\nKitta vandhu katti kolla\nSolluthudhe intha chedi\n\nThottu thottu pesida\nThudikuthe en manam\nVittu vittu poguma\nIntha inba uravam\n\nUnnaith thaane kalyanam seithu kolven\nUllathile palliyarai pottu vaippen"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b2/Poove_Poochudava.jpg",
+    "lyrics": "Laa laa laalala … laa laa laalala\n\nChinna kuyil paadum paatu kekudhaa\nKukkoo kukkoo koo koo kukkoo kukkoo koo koo\nThambigalae thangaigalae theril ennai yetrungal\nUllaasamaai urchaagamaai oorai sutri kaatungal\n\nYengum manimelae thannandhaniyaa\nGangai nadhikenna kattuthariyaa\nAda vaanam yengu pogum angu naanum povenae\nYeppam vidum odaiyai ippodhudhaan paarkiren\nMainaakalin bhaasaiyai ippodhudhaan ketkiren\nBrindhavanam ingae paarthenae la la la lalalaa\n\nAha indha boomi putham pudhusu\nPaasam vandhadhaalae pongum manasu\nIni vaasam veesum poovil naanum vaasam seivenae\nThaavi yengum odinen thaayin madi thedinen\nPoovanangal yengilum poojai seiya pogiren\nEn solaiyil naanum poovaven la la la lalalaa"
   },
   {
     "title": "Yamunai Aatrile",
@@ -13,7 +14,8 @@
     "composer": "Ilaiyaraaja",
     "category": "Vintage Classics",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/yamunai.mp3",
-    "lyrics": "Yamunai aatrile eera kaatrile\nKannanodu thaan aada\nPaarvai poothida paadhai paarthida\nPaavai raadhaiyo vaada\n\nIravum ponathu pagalumn ponathu\nMannan illaiye kooda\nIlayum uthirnthathu kilaiyum azhuthathu\nIllai innum thoothu\n\nKannan naayagan pinnum oodinaan\nKangal theduthe thadaam\nRaadhai thedinaal kaadhal porinaal\nSengal paaduthe naadham\n\nYamunai aatrile eera kaatrile\nKannanodu thaan aada"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Thalapathi_poster.jpg",
+    "lyrics": "Yamunai aatrilae Eera kaatrilae\nKannanodu dhaan aada\nPaarvai poothida Paadhai paarthida\nPaavai raadhaiyo vaada\n\nIravum ponathu Pagalum ponathu\nMannan illayae kooda\nIlaiya kanniyin Imaithidaatha kan\nIngum angumae thaeda\n\nAayarpaadiyil kannan illaiyo\nAasai vaippathae anbu thollaiyo\nAayarpaadiyil kannan illaiyo\nAasai vaippathae anbu thollaiyo\nPaavam raadhaa..\n\nYamunai aatrilae Eera kaatrilae\nKannanodu dhaan aada\nPaarvai poothida Paadhai paarthida\nPaavai raadhaiyo vaada"
   },
   {
     "title": "Ooru Sanam",
@@ -21,7 +23,8 @@
     "composer": "Ilaiyaraaja",
     "category": "Vintage Classics",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/ooru_sanam.mp3",
-    "lyrics": "Ooru sanam thoongiruchu\nOotha kaathum adichiruchu\nPaavi manam thoongalaye\nAthu yeno puriyalaye\n\nKuyilu karunguyilu maaman\nKuralu kekkalaye\nMaiyilu ilamayilu thogai\nVirichum aadaiyile\n\nThendral kaathu veesiyum\nThen malar poothum\nEnna laabam enna laabam\nMaaman illaye\n\nOoru sanam thoongiruchu\nOotha kaathum adichiruchu\nPaavi manam thoongalaye"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/86/Mella_Thirandhathu_Kadhavu.jpg",
+    "lyrics": "Ooru sanam thoongiruchu oodha kaathum adichiruchchu\nPaavi manam thoongalaiyae adhuvum ennoo puriyallaiyae\n\nKuyilu karunguyilu maaman manak kuyilu\nKolam podum paattaalae\nMayilu ila maayilu maaman kavi kuyilu\nRaagam paadum kettaalae… sedhi sollum paattaalae\n\nOnna enni naanae ullam vaadi ponen\nKanni ponnudhanae en maamanae… en maamanae\n\nOthayilae athamaga onna nenachi rasicha maga\nKannu rendum moodallaiyae kaalam neram koodallaiyae\n\nMaaman odhadu pattu naadham tharum kuzhalu\nNaanaa maara koodaadha\nNaalum thavamirundhu naanum ketta varam\nKoodum kaalam vaaraadhaa… maaman kaadhil yeeraadha\n\nNelaakaayum neram nenjukulla baaram\nMelum melum yerum indha nerandhaan…\nOnna enni pottu vechen ola paaya pottu vechen\nIshta patta aasa machchaan enna melum yengha vechann"
   },
   {
     "title": "Inji Iduppazhagi",
@@ -29,7 +32,8 @@
     "composer": "Ilaiyaraaja",
     "category": "Vintage Classics",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/inji_iduppazhagi.mp3",
-    "lyrics": "Inji iduppazhagi\nManja sivappazhagi\nKallach sirippazhagi\nMarakka manam kooduthillaiye\n\nMarakka manam kooduthillaiye\nThirumba unnai theduthu\nEn usuru aasaigalai kooruthu\n\nSanthana pottazhagi\nSathiya satchiyada\nKannu muzhi paarthaa\nKavithai kotti theeruthu\n\nInji iduppazhagi\nManja sivappazhagi\nKallach sirippazhagi\nMarakka manam kooduthillaiye"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Thevar_Magan_poster.jpg",
+    "lyrics": "Inji iduppazhagi manja chevappazhagi\nKallach chirippazhagi marakka manam koodudhillaiye\nMarakkuma maaman ennam? Mayakkudhe panjavarnam\nMadiyile oonjal poda, maane vaa\n\nThannan thanichirukka, thathalichu thaanirukka\nUn nenappil naan parichen, thaamaraiye\nPunnai vanathinile, pedai kuyil koovaiyile\nUnnudaiya vedhanaiyai nan arinjen\nOn kazhuthil maalaiyida, onnirandu tholai thoda\nEnna thavam senjeno? En mamaa\n\nVannakkili kaiyaith thoda, chinna chinna kolamida\nUllam mattum un vazhiye, naane\nAdikkira kathaik kaelu, asaiyura nathaik kaelu\nNadakkira athaik kaelu, nee thaana?"
   },
   {
     "title": "Kannan Vandhu",
@@ -37,7 +41,8 @@
     "composer": "Ilaiyaraaja",
     "category": "Vintage Classics",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/kannan_vandhu.mp3",
-    "lyrics": "Kannan vandhu paadugindraan\nKaalamellam vaazhugindraan\nEnnai anbi aalum mannan\n\nNenjile inbam kondu\nPaadugindraan kannan\nKannile vannam kondu\nThedugindraan mannan\n\nSollile thean kotti\nSuvaiyai aakinaan\nPillai pol yennai aakinaan\n\nKannan vandhu paadugindraan\nKaalamellam vaazhugindraan"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/ta/8/87/Rettai_Vaal_Kuruvi_poster.jpg",
+    "lyrics": "Kannan vandhu paadugindraan\nKaalamellam kannil enna kobam endraan\nGeethangal sinthum kangal mooduthe\nPaathangal vannap pankaL paaduthe\nMokangal ennum kannan thaerilae\n\nKaadhalennum koottukkulle aasai kuyil konjuthamm\nIvaL vannang kodi... sinnam thaedi\nMunnum thooLil kannam kooda santham paadi\nKaaman sonna kaaviyam thaano? Kaadhal konda oviyam thaano?\n\nVaanathil sellak kannan paaduvaan\nKaanathil chinnap pennum aaduvaaL\nAayarkal maththuch saththam polavae\nAanantha muththam sinthum neramae\nMaalai nilaa... maalai nilaa pooththathamma\nMouna mozhi solluthamm"
   },
   {
     "title": "Sendhoora Poove",
@@ -45,7 +50,8 @@
     "composer": "Ilaiyaraaja",
     "category": "Vintage Classics",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/sendhoora_poove.mp3",
-    "lyrics": "Sendhoora poove sendhoora poove\nJillenra kaatre\nEn mannan enge en mannan enge\nNee konjam sollaayo\n\nThendralai thoodhu vittu\nOru sethi ketaen\nKangalil neerai vittu\nNaan kaathu nindraen\n\nVasantham varum neram\nEn mannan varuvaana\nAzhagu mugam kaati\nEnnai aazhvaana\n\nSendhoora poove sendhoora poove\nJillenra kaatre"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9f/16_Vayathinile_poster.jpg",
+    "lyrics": "Sendhoora poove sendhoora poove\nJillenra kaatre\nEn mannan enge en mannan enge\nNee konjam sollaayo\n\nThendralai thoodhu vittu oru sethi ketaen\nKangalil neerai vittu naan kaathu nindraen\nVasantham varum neram en mannan varuvaana\nAzhagu mugam kaati ennai aazhvaana\n\nKaatrinil pattam pole en manam thudikuthe\nKaadhalenum sithirathil uyir thudikuthe\nUnnaiye ninaithu naan urugi nindraen\nUlagam maranthu naan tholaithu nindraen\nMannavan varum varai naanum kaathiruppen"
   },
   {
     "title": "Valaiyosai",
@@ -53,7 +59,8 @@
     "composer": "Ilaiyaraaja",
     "category": "Vintage Classics",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/valaiyosai.mp3",
-    "lyrics": "Valaiyosai kala kala vena\nKavithaigal padikuthu\nKulu kulu thendral kaatrum veesuthu\n\nSila neram silu silu vena\nSiru viral pada pada\nThudikuthu engum inbam pesuthu\n\nUnakkena pirandhava naan\nEnakkena pirandhavan nee\nIruvarum oruvarai oruvar\nPurinthu kondom\n\nValaiyosai kala kala vena\nKavithaigal padikuthu\nKulu kulu thendral kaatrum veesuthu"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6b/Sathyaa_1988_poster.jpg",
+    "lyrics": "Valaiyosai kala kala vena kavithaigal padikuthu\nKulu kulu thendral kaatrum veesuthu\n\nSila neram silu silu vena siru viral pada pada\nThudikuthu engum inbam pesuthu\nUnakkena pirandhava naan, enakkena pirandhavan nee\nIruvarum oruvarai oruvar purinthu kondom\n\nAndhi veyil neram thanga thidatilae\nAlli konda kaadhal anbu thidatilae\nMalarin vasam manathil pesuthae\nUrugum neram unarvu kooruthae\nNaan unnai serum naal entha naalo?\n\nVaanin meethu megam paadum paattu enna\nKaatril aadum poovum koorum sethi enna\nNenjil aasaigal pongiduthe, kannil minnalgal thondriduthe\nInba thene unnai thaane"
   },
   {
     "title": "Azhagu Malar Aada",
@@ -61,7 +68,8 @@
     "composer": "Ilaiyaraaja",
     "category": "Vintage Classics",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/azhagu_malar.mp3",
-    "lyrics": "Azhagu malar aada abinayangal kooda\nSilambu oli koova\nSirippu oli thoova\n\nVaanin meethu megam\nPaadum paattu enna\nKaatril aadum poovum\nKoorum sethi enna\n\nNenjil aasaigal pongiduthe\nKannil minnalgal thondriduthe\nInba thene unnai thaane\n\nAzhagu malar aada abinayangal kooda\nSilambu oli koova"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/Vaidehi_Kathirunthal_poster.jpg",
+    "lyrics": "Azhagu malar aada abinayangal kooda\nSilambu oli koova sirippu oli thoova\nKanni manam thudikuthu, kaadhal isai padikuthu\n\nVaanin meethu megam paadum paattu enna\nKaatril aadum poovum koorum sethi enna\nNenjil aasaigal pongiduthe, kannil minnalgal thondriduthe\nInba thene unnai thaane\n\nMaalai neram solai meethu thendral veesum pothu\nKaadhal geetham paadum nenjam mella thorum pothu\nAariraro paadidum annai anbu polavae\nUnnai kanda pothu naanum unnil karaintheney"
   },
   {
     "title": "Thendral Vandhu",
@@ -69,7 +77,8 @@
     "composer": "Ilaiyaraaja",
     "category": "Vintage Classics",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/thendral_vandhu.mp3",
-    "lyrics": "Thendral vandhu theendum pothu\nEnna vannamo manasula\nThingal vandhu ulaavum pothu\nEnna vannamo ninappula\n\nKangal aayiram thevaiya\nKaadhal kaviya paada\nKalaigal aayiram thevaiya\nKaadhal nadanam aada\n\nUnnodu naan irunthaal\nUlagam enathagum\nUlagin mudivillum\nKaadhal thodarum\n\nThendral vandhu theendum pothu\nEnna vannamo manasula"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/ta/d/d7/Avatharam_movie_poster.jpg",
+    "lyrics": "Thendral vandhu theendum pothu enna vannamo manasula\nThingal vandhu ulaavum pothu enna vannamo ninappula\n\nKangal aayiram thevaiya kaadhal kaviya paada\nKalaigal aayiram thevaiya kaadhal nadanam aada\nUnnodu naan irunthaal ulagam enathagum\nUlagin mudivillum kaadhal thodarum\n\nVellai puraakal thaan kaadhal thoodhu sellume\nSollai maraithu thaan nenjam thavikkume\nUnnai paarkum pothu naanum kavithei aagiren\nUnnil karaiyum pothu naanum ennai marakkiren\nIravaai pagalai unaiye ninaikkiren"
   },
   {
     "title": "Kuyile Kavikuyile",
@@ -77,16 +86,17 @@
     "composer": "Ilaiyaraaja",
     "category": "Vintage Classics",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/kuyile.mp3",
-    "lyrics": "Kuyile kavikuyile\nKuruvi ilam kuruvi\nKaalaiyil paadum paattu\n\nUn isai ketaal nenjam\nUruguthe inbam konjam\nMalarukku thene thene\nManasukku naane naane\n\nKaatrile un paattu\nKalandhu varuthe kettathum\nUn paattil en nenjam\nMayangi vizhuthe paarthathum\n\nKuyile kavikuyile\nKuruvi ilam kuruvi"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Kavikkuyil_poster.jpg",
+    "lyrics": "Kuyile kavikuyile kuruvi ilam kuruvi\nKaalaiyil paadum paattu\nUn isai ketaal nenjam uruguthe inbam konjam\nMalarukku thene thene manasukku naane naane\n\nKaatrile un paattu kalandhu varuthe kettathum\nUn paattil en nenjam mayangi vizhuthe paarthathum\nPoonthalirilae vaasam veesum kulu kulu kaatre\nUn kuralai ketaal ulagam thulli aadume\nEn manamum thulli thulli paadume\n\nKuyile kavikuyile kuruvi ilam kuruvi\nKaalaiyil paadum paattu"
   },
   {
-  "title": "Munbe Vaa",
-  "movie": "Sillunu Oru Kadhal",
-  "composer": "A.R. Rahman",
-  "category": "Modern Melodies",
-  "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/munbe_vaa.mp3",
-  "lyrics": "முன்பே வா என் அன்பே வா\nஊனே வா உயிரே வா\nமுன்பே வா என் அன்பே வா\nபூ பூவாய் பூப்போம் வா\nநான் நானா\nகேட்டேன் என்னை நானே\nநான் நீயா\nநெஞ்சம் சொன்னதே\n\nமுன்பே வா என் அன்பே வா\nஊனே வா உயிரே வா\nமுன்பே வா என் அன்பே வா\nபூ பூவாய் பூப்போம் வா\n\nரங்கோ ரங்கோலி\nகோலங்கள் நீ போட்டாய்\nகோலம் போட்டவள் கைகள் வாழி\nவளையல் சத்தம் ஜல் ஜல்\nரங்கோ ரங்கோலி\nகோலங்கள் நீ போட்டாய்\nகோலம் போட்டவள் கைகள் வாழி\nசுந்தர மல்லிகை சந்தன மல்லிகை\nசிந்திய புன்னகை வண்ணம் மின்ன",
-  "imageurl": "https://i.ytimg.com/vi/UPQZ4vuvW2s/sddefault.jpg"
+    "title": "Munbe Vaa",
+    "movie": "Sillunu Oru Kadhal",
+    "composer": "A.R. Rahman",
+    "category": "Modern Melodies",
+    "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/munbe_vaa.mp3",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Sillunu_Oru_Kaadhal_poster.jpg",
+    "lyrics": "Munbe vaa en anbe vaa Oone vaa uyire vaa\nMunbe vaa en anbe vaa Poo poovaai pooppom vaa\nNaan naanaa kaetten ennai naane\nNaan neeyaa nenjam sonnathe\n\nRango rangoli kolangal nee poattaai\nKoalam poattaval kaigal vaazhi\nValaiyal saththam jil jil jil\nRango rangoli kolangal nee poattaai\nKoalam poattaval kaigal vaazhi\nSundara malligai santhana malligai\nSinthiya punnagai vannam minna\n\nPoovukkul thaen irukkum varaiyil\nKaadhalar vaazhvagam poomiyil\nNee ninaikkum ninaivugal ellaam\nEn nenjinil kavitheyai maarum\nOru paarvaiyil kaadhalai sonnavanae\nOru vaarthaiyil uyirai thandhavanae\nUnnodu naan irukkum ovvoru nodiyum\nUlagin mudivillai kaadhal thodarum"
   },
   {
     "title": "Vaseegara",
@@ -94,7 +104,8 @@
     "composer": "Harris Jayaraj",
     "category": "Modern Melodies",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/vaseegara.mp3",
-    "lyrics": "Vaseegara en nenjinikka\nUn pon madiyil thoonginal pothum\nAthey kanam en uyirum ponal pothum\n\nNenjathile theeyai vaithu\nNindraal enna aagum\nEn aasaigal unthan peril\nEndrum vaazhum\n\nMuzhu nilavaa unnai kandaen\nEn kangal irandum minna\nUn nizhalil naan nadakka\nEn paatham irandum inikka\n\nVaseegara en nenjinikka\nUn pon madiyil thoonginal pothum"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Minnale_poster.jpg",
+    "lyrics": "Vaseegara en nenjinikka\nUn pon madiyil thoonginaal poadhum\nAdhey ganam en uyirum poanaal poadhum\n\nNenjathiley theeyai vaithu nindraal enna aagum\nEn aasaigal unthan paeril endrum vaazhum\nMuzhu nilavaa unnai kandaen\nEn kangal irandum minna\nUn nizhalil naan nadakka\nEn paatham irandum inikka\n\nNilaavin oliyena unnai kandaen\nKanaavin valiyena unnai kandaen\nIravilum pagalilum unnai ninaikkiren\nIdhayathil unnai thaan sumaikiren\nUn poygal kooda unmai thaan\nUn kuralai ketaal sugam thaan\nEnnai marandhu unnul karaintheney"
   },
   {
     "title": "Idhu Varai",
@@ -102,7 +113,8 @@
     "composer": "Yuvan Shankar Raja",
     "category": "Modern Melodies",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/idhu_varai.mp3",
-    "lyrics": "Idhu varai illatha uravithu\nIthayathil undana kanavithu\nPazhagida nenaikayil bayam varuthu\n\nPaarthathum paravasam aaguthu\nPesida thudikuthu en manathu\nUnnaiye theduthe en kangal\n\nOru murai unnai paarthaal\nEnakulle yetho aaguthu\nUn sirippai ketaal\nUlagame azhagaaguthu\n\nIdhu varai illatha uravithu\nIthayathil undana kanavithu"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Goa_poster.jpg",
+    "lyrics": "Idhu varai illaadha uravidhu\nIdhayathil undaana kanavidhu\nPazhagida ninaikkaiyil bayam varudhu\n\nPaarthadhum paravasam aagudhu\nPesida thudikkudhu en manadhu\nUnnaiye thaedudhu en kangal\nOru murai unnai paarthaal\nEnakkulle yaedho aagudhu\nUn sirippai kaetaal\nUlagamae azhagaagudhu\n\nIntha ulagam puriyavillai\nIntha kaadhal theriyavillai\nUnnodu naanum nadakkaiyile\nKaalam karaiyum unarvillai\nNee vandhu poagum dhooram ellaam\nVaasam veesum poovalla\nNee nirkkum idathil en idhayam\nSatham indri thudikkudhae"
   },
   {
     "title": "Pookal Pookum",
@@ -110,7 +122,8 @@
     "composer": "G.V. Prakash",
     "category": "Modern Melodies",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/Pookal%20Pookum.mp3",
-    "lyrics": "Pookal pookum tharunam\nAaruyire paarthatharum\nUlagam maranthu tholainthen\n\nUnnai kanda neram\nEn nenjil minnal adikum\nUnnai thedi varum\nEn kaadhal thudikum\n\nIravilum pagalilum\nUn ninaivugal thaane\nKaatrilum un paattu\nKekkuthe naane\n\nPookal pookum tharunam\nAaruyire paarthatharum"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/07/Madrasapattinam_poster.jpg",
+    "lyrics": "Pookal pookum dharunam aaruyirae Paarthadhaarum illaiyae\nUlarum kaalai pozhudhai mullaivanam Paarthadhum illaiyae\nIndha mounam enna koorum Indha kaadhal enna seiyum\nIdhayathai unnil tholaithaeney\n\nVaarthai illai mounamaai irukka\nVaazhkkai illai unnodu nadakka\nUn kangalil ennai kandaen\nEn kavithaiyil unnai thandhaen\nOru nimidam unnai paarthaal\nOru yugamaai maarum anbe\nKaatril vandha vaasam poley\nNee vandhu poanaai nenjiley"
   },
   {
     "title": "Neeyum Naanum",
@@ -118,7 +131,8 @@
     "composer": "Anirudh",
     "category": "Modern Melodies",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/neeyum_naanum.mp3",
-    "lyrics": "Neeyum naanum anbe\nKangal korthukkondu\nVaazhvin ellai sendru\n\nOru paathiyil naanum\nMaru paathiyil neeyum\nIruvarum inaindhaal\nUlagam azhagaagum\n\nSirippilum azhugaiyilum\nUnnodu naane\nIdhayam thudikkum\nSaththam nee thaane\n\nNeeyum naanum anbe\nKangal korthukkondu"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Naanum_Rowdy_Dhaan_poster.jpg",
+    "lyrics": "Neeyum naanum anbe\nKangal korthu kondu\nVaazhvin ellai sendru Ondraai vaazhalaam\n\nOru paadhiyil naanum\nMaru paadhiyil neeyum\nIruvarum inaindhaal\nUlagam azhagaagum\n\nEn kaadhal unnai naadum\nEn nenjam unnai thaedum\nUn sirippil en ulagam thudikkum\nUn paarvaiyil en iravu minnum\nIntha payanam mudiyadhey\nUn anbil naanum karaiyiren"
   },
   {
     "title": "Oru Dheivam",
@@ -126,7 +140,8 @@
     "composer": "A.R. Rahman",
     "category": "Modern Melodies",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/oru_dheivam.mp3",
-    "lyrics": "Oru dheivam thantha poove\nKanne theneye\nEnnai kaakum thaaye\n\nUn paarvaiyil naane\nEnnai maranthen thaaye\nUn anbil naane\nEnnai kandaen thaaye\n\nIravilum pagalilum\nUn madiyil thaane\nEn urakkam vandhu\nEnnai thazhuvum thaane\n\nOru dheivam thantha poove\nKanne theneye"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Kannathil_Muthamittal_poster.jpg",
+    "lyrics": "Oru dheivam thandha poove\nKannil theedhum illaiye\nEnnai kaakum thaaye\nUn paarvaiyil naane\nEnnai marandhen thaaye\n\nSinnanjiru kiliye kannamma Selvakkalanchiyame\nUn sirippai ketaal nenjam Urugum ponnamma\n\nIravilum pagalilum Un madiyil thaane\nEn urakkam vandhu Ennai thazhuvum thaane\nPillai kural ketaal Ulagam marandhu poagum\nAnbu enum kadalil Ullam nanaindhu poagum"
   },
   {
     "title": "Kangal Edho",
@@ -134,7 +149,8 @@
     "composer": "Dhibu Ninan Thomas",
     "category": "Modern Melodies",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/kangal_edho.mp3",
-    "lyrics": "Kangal edho theda kalavaada\nNenjam thaanae paada parandhoda\n\nAdi ovvoru raappozhudhum\nOna appadi naan rasichen\nUyir kolludhu onnenappu\nKanmaniye..oh\n\nOru aayiram vaanavilla\nOnpoovizhi kaattudahdi\nAdha sattunnu nee marachaa\nNaan enna seiven pulla\n\nKangal edho theda kalavaada\nNenjam thaanae paada parandhoda\n\nVelayaattu pechula vesa oosi eathura\nNee lesaa paakka minnal kottiduthe\nOli paanja onmugam manasoda modhuthe\nNee pesum pechu aiyyo alliduthae\n\nEnnennavo unkitta sollavaum thonudhadaa\nKaadhal vanthe sattunu sallada poduthadaa"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/Chithha_poster.jpg",
+    "lyrics": "Kangal edho theda kalavaada\nNenjam thaanae paada parandhoda\nAdi ovvoru raappozhudhum\nOna appadi naan rasichen\nUyir kolludhu onnenappu\nKanmaniye..oh\n\nOru aayiram vaanavilla Onpoovizhi kaattudahdi\nAdha sattunnu nee marachaa Naan enna seiven pulla\n\nVelayaattu pechula vesa oosi eathura\nNee lesaa paakka minnal kottiduthe\nOli paanja onmugam manasoda modhuthe\nNee pesum pechu aiyyo alliduthae\n\nEnnennavo unkitta sollavaum thonudhadaa\nKaadhal vanthe sattunu sallada poduthadaa"
   },
   {
     "title": "Mallipoo",
@@ -142,7 +158,8 @@
     "composer": "A.R. Rahman",
     "category": "Modern Melodies",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/mallipoo.mp3",
-    "lyrics": "Mallipoo vechchu vechchu vaaduthu\nAndha velli nila vanthu vanthu theduthu\nMachaan eppo vara pora\n\nEn usuru thudikuthu\nUnnai paaka nenaikuthu\nKaalamellam un kooda\nVaazha manam thavikuthu\n\nPattu selai katti naan\nKaathu kidaiken\nEn machaan varuvaan nu\nNaan paathu kidaiken\n\nMallipoo vechchu vechchu vaaduthu\nAndha velli nila vanthu vanthu theduthu"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e3/Vendhu_Thanindhathu_Kaadu_poster.jpg",
+    "lyrics": "Mallipoo vechu vechu vaadudhu\nAndha velli nila vandhu vandhu thedudhu\nMachaan eppo vara poara?\n\nEn usuru thudikkudhu Unnai paarka ninaikkudhu\nKaalam ellaam un kooda Vaazha manam thavikkudhu\n\nPattu selai katti naan kaathu kidakkiren\nEn machaan varuvaan nu naan paathu kidakkiren\nThaali kattu raagam eppo keka poagudho?\nPaavi nenjam eppo unnai katti kollumo?"
   },
   {
     "title": "Iravingu Theevai",
@@ -150,6 +167,7 @@
     "composer": "Govind Vasantha",
     "category": "Modern Melodies",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/iravingu_theevai.mp3",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/93/96_film_poster.jpg",
     "lyrics": "Iravingu theevai namai chooluthe\nVidiyalum irulaai varuthe\nNinaivugal theeyai alai mothuthe\nUdalingu saavai azhuthe\n\nPirive uruvai karainthu pogiren\nUyirin uyirai pirinthu pogiren\nMalaigalin nadhipol manam vazhinthu vanthai\nVaranthidum nilathil pala kadalgal thanthai\n\nKanave thunaiyai ozhinthu poghattum\nIravingu theevai namai chooluthe\n\nIntha thamarai kulam meeri thani aaguthe\nAthan sooriyan pagal indri veyil kaayuthe\nOru pathayil iru jeevan thunai theduthe\nAda kaalangal meeri thadai poduthe\n\nNee indri naane dhinam vazhvathoru vazhva\nVazhve vaa nee thaan uyirin uyire... varavaa"
   },
   {
@@ -158,46 +176,7 @@
     "composer": "Govind Vasantha",
     "category": "Modern Melodies",
     "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/kadhale_kadhale.mp3",
-    "lyrics": "Kadhale kadhale\nThani perum thunaiye\nKooda vaa kooda vaa\n\nUnnai paartha antha neram\nEn manathil perum maattram\nKaadhal endra oru vaarthai\nEnnai aalum siru vaarthai\n\nNenjamellam un ninaivu\nKangalil un uruvu\nIntha kaadhal endrum vaazhum\nUnnodu naan vaazhum varai\n\nKadhale kadhale\nThani perum thunaiye"
-  },
-  {
-    "title": "Vaa Vaathi",
-    "movie": "Vaathi",
-    "composer": "G.V. Prakash",
-    "category": "Modern Melodies",
-    "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/vaa_vaathi.mp3",
-    "lyrics": "Vaa vaathi vaa vaathi\nEn kooda vaa vaathi\nNee varum pathayil naan iruppen\n\nUn sirippai kandaal\nEn manathil inbam\nUn kuralai ketaal\nEn ulagam thullum\n\nKaatril parakkum\nEn aasaigal ellam\nUnnai thedi thaane\nVanthu saerum anbe\n\nVaa vaathi vaa vaathi\nEn kooda vaa vaathi"
-  },
-  {
-    "title": "Aga Naga",
-    "movie": "Ponniyin Selvan 1",
-    "composer": "A.R. Rahman",
-    "category": "Modern Melodies",
-    "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/aga_naga.mp3",
-    "lyrics": "Aga naga muganagaiye\nIthai neeyum arivaaye\nEn thozhiye en thozhiye\n\nKaadhal enum theeyil\nNaan erigiren anbe\nUn ninaivugal ennai\nThurathuthe anbe\n\nNenjil ulla kaadhal\nEnnai aatti padaikkum\nUn kangalil naan\nEnnai tholaithen\n\nAga naga muganagaiye\nIthai neeyum arivaaye"
-  },
-  {
-    "title": "Vaan Varuvaan",
-    "movie": "Kaatru Veliyidai",
-    "composer": "A.R. Rahman",
-    "category": "Modern Melodies",
-    "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/vaan_varuvaan.mp3",
-    "lyrics": "Vaan varuvaan\nNaalum nallu vanthu nindru\nKaadhal pesuvaan\n\nKaatril aadum koonthal\nUnnai thedi aalaiyum\nKaadhal enum mozhiyil\nEn manathum thullum\n\nUnnai kanda neram\nEn ulagam maarum\nInba thene unnai\nNaan enni thavikkiren\n\nVaan varuvaan\nNaalum nallu vanthu nindru"
-  },
-  {
-    "title": "Ondra Renda",
-    "movie": "Kaakha Kaakha",
-    "composer": "Harris Jayaraj",
-    "category": "Modern Melodies",
-    "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/ondra_renda.mp3",
-    "lyrics": "Ondra renda aasaigal\nEllaam sollave oru naal podhuma\nAnbe urangaathirezhu\nIdhu thoongum nerama\n\nKanavu vanthaal\nAthil unthan bimbam\nNinaivu vanthaal\nAthil unthan geetham\n\nNenjamellam un ninaivu\nKangalil un uruvu\nIntha kaadhal endrum vaazhum\nUnnodu naan vaazhum varai\n\nOndra renda aasaigal\nEllaam sollave oru naal podhuma"
-  },
-  {
-    "title": "Sara Sara Saara Kaathu",
-    "movie": "Vaagai Sooda Vaa",
-    "composer": "Ghibran",
-    "category": "Modern Melodies",
-    "audioUrl": "https://raw.githubusercontent.com/Sriram-01-code/chinnakuyil-audio/main/sara_sara.mp3",
-    "lyrics": "Sara sara saara kaathu\nVeesum pothu\nSirikkithu en manasu\n\nMaan kuttin pole\nNaan thulli kuthikka\nUnnai kandu naane\nEnnai tholaikka\n\nPoovukkulle thean irukku\nEn manasukkulle un ninaivurukku\nKaatru vanthu thottu sella\nKaadhal enum mozhi pesa\n\nSara sara saara kaathu\nVeesum pothu\nSirikkithu en manasu"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/93/96_film_poster.jpg",
+    "lyrics": "Kaadhale kaadhale Thani perum thunaiye\nKaadhale kaadhale\n\nUnnai paartha antha neram En manathil perum maattram\nKaadhal endra oru vaarthai Ennai aalum siru vaarthai\n\nNenjamellaam un ninaivu Kangalil un uruvu\nIntha kaadhal endrum vaazhum Unnodu naan vaazhum varai\n\nVidiyum podhu unnai thedum Mudiyum podhu unnai paadum\nKaatril vandha geethamae Idhayam thudikkum naadhamae"
   }
 ]
